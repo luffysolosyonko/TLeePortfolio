@@ -12,11 +12,11 @@ Personal portfolio website showcasing my software engineering projects, work exp
 
 ## Features
 
-- 🎨 NVIDIA-inspired dark theme with green accents
-- 📱 Fully responsive design
-- 🎥 Inline YouTube video modals for project demos
-- 📄 Embedded resume viewer
-- ⚡ Optimized performance with lazy loading
+-  NVIDIA-inspired dark theme with green accents
+-  Fully responsive design
+-  Inline YouTube video modals for project demos
+-  Embedded resume viewer
+-  Optimized performance with lazy loading
 
 ## Project Setup
 
